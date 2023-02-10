@@ -1,3 +1,3 @@
-Remember Kids!
+It is almost always a right decision to spend 10 days automating something that takes you 10 minutes to manually do.
 
-It is almost always morally correct to spend 10 days automating somethings that takes you 10 minutes to manually do 🤌.
+- Some random reddior on r/ProgrammerHumor
