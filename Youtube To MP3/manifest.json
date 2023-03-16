@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Youtube To MP3",
+    "version": "1.0",
+    "description": "Converts YouTube To MP3",
+    "icons": {
+        "128": "icons\\icons16.png",
+        "48": "icons\\icons16.png",
+        "16": "icons\\icons16.png"
+    },
+    "page_action": {
+        "browser_style": "true",
+        "default_icon": {
+            "128": "icons\\icons16.png",
+            "48": "icons\\icons16.png",
+            "16": "icons\\icons16.png"
+        },
+        "default_popup": "index.html"
+    }
