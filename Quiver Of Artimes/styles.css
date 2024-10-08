@@ -1,0 +1,40 @@
+
+/* styles.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.watch-now-section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: #D1E9F6;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    text-align: center;
+}
+
+.watch-now-section h3 {
+    color: #000000;
+    font-size: 1.5rem;
+    margin-top: 1px;
+    margin-bottom: 12px;
+    font-weight: bolder;
+}
+
+.watch-now-section button {
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 3px;
+}
+
+.watch-now-section button:hover {
+    background-color: #F3C623;
+    color: #000000
+}
